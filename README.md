@@ -4,7 +4,7 @@ BSIT Student & Developer from the Philippines 🇵🇭
 
 I build web-based systems and enjoy solving real-world problems through technology.
 
-🛠️ Skills
+> Skills
 PHP
 JavaScript
 Python
